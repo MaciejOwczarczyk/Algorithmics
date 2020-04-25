@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b01a8634-72e0-46d7-89df-23cddb6acd1b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="237" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Ul2hf96nKWDgsqKvFxNJNF6MKl" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19770116" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SomeFunction">
+    <configuration name="AmountChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorytmics.eightOfApril.AmountChange" />
+      <module name="Hacker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorytmics.eightOfApril.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorytmics.eightOfApril.Fibonacci" />
+      <module name="Hacker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorytmics.eightOfApril.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListUS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.hackerRank.day_15.LinkedListUS" />
+      <module name="Hacker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderslab.hackerRank.day_15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorytmics.eightOfApril.SmallFactorial" />
+      <module name="Hacker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorytmics.eightOfApril.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SomeFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorytmics.eightOfApril.SomeFunction" />
+      <module name="Hacker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorytmics.eightOfApril.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SomeFunction" />
+        <item itemvalue="Application.AmountChange" />
+        <item itemvalue="Application.SmallFactorial" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.LinkedListUS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b01a8634-72e0-46d7-89df-23cddb6acd1b" name="Default Changelist" comment="" />
+      <created>1575916981599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575916981599</updated>
+      <workItem from="1575916982841" duration="7987000" />
+      <workItem from="1576001972932" duration="2648000" />
+      <workItem from="1576189491845" duration="860000" />
+      <workItem from="1578432709383" duration="4000" />
+      <workItem from="1579978334235" duration="1576000" />
+      <workItem from="1580028997636" duration="4000" />
+      <workItem from="1584906474880" duration="85924000" />
+      <workItem from="1585859851518" duration="1634000" />
+      <workItem from="1585936185450" duration="855000" />
+      <workItem from="1585999026511" duration="1252000" />
+      <workItem from="1586026919578" duration="863000" />
+      <workItem from="1586112064605" duration="10100000" />
+      <workItem from="1586249585137" duration="5468000" />
+      <workItem from="1586283278361" duration="7634000" />
+      <workItem from="1586333704909" duration="4235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hacker$AnotherFactorial.ic" NAME="AnotherFactorial Coverage Results" MODIFIED="1585167913653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.coderslab.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Hacker$ClimbingLeaderBoards.ic" NAME="ClimbingLeaderBoards Coverage Results" MODIFIED="1585258758514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.coderslab.*</FILTER>
+    </SUITE>
+  </component>
+</project>
