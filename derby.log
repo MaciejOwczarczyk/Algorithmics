@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Apr 30 13:56:03 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0171-caf1-98c5-00000f7088d8 
+on database directory memory:/Users/maciejowczarczyk/Desktop/Maciej/kurs/Zadania/Hacker/codejava/webdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
+Loaded from file:/Users/maciejowczarczyk/Desktop/Maciej/kurs/Zadania/Hacker/derby.jar
+java.vendor=JetBrains s.r.o
+java.runtime.version=11.0.6+8-b765.25
+user.dir=/Users/maciejowczarczyk/Desktop/Maciej/kurs/Zadania/Hacker
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
