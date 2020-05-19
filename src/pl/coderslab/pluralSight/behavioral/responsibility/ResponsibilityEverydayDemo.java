@@ -1,25 +1,24 @@
 package pl.coderslab.pluralSight.behavioral.responsibility;
 
-import java.util.logging.ConsoleHandler;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-
 public class ResponsibilityEverydayDemo {
-
-    private static final Logger logger = Logger.getLogger(ResponsibilityEverydayDemo.class.getName());
-
     public static void main(String[] args) {
+        Director bryan = new Director();
+        VP crystal = new VP();
+        CEO jeff = new CEO();
 
-        logger.setLevel(Level.FINER);
+        bryan.setSuccessor(crystal);
+        crystal.setSuccessor(jeff);
 
-        ConsoleHandler handler = new ConsoleHandler();
+        Request request = new Request(RequestType.CONFERENCE, 500);
+        bryan.handleRequest(request);
 
-        handler.setLevel(Level.FINER);
-        logger.addHandler(handler);
+        request = new Request(RequestType.PURCHASE, 1000);
+        bryan.handleRequest(request);
 
-        logger.finest("Finest level of logging");
-        logger.finer("Finer level, but not as fine as finest");
-        logger.fine("Fine, but not as fine as finer ot finest");
+        request = new Request(RequestType.PURCHASE, 2000);
+        bryan.handleRequest(request);
+
+
 
     }
 }
